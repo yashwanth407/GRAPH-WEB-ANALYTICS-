@@ -1,0 +1,21 @@
+TransactionID,CustomerID,ProductID,ProductName,Category,Quantity,Price,TotalAmount,Date,PaymentMode
+T001,C001,P001,Laptop Pro,Electronics,1,999.99,999.99,2024-01-15,Credit Card
+T002,C002,P002,Wireless Mouse,Electronics,2,29.99,59.98,2024-01-16,PayPal
+T003,C001,P003,Office Chair,Home,1,249.99,249.99,2024-01-17,Credit Card
+T004,C003,P004,Cotton T-Shirt,Clothing,3,19.99,59.97,2024-01-18,Debit Card
+T005,C002,P005,Organic Apples,Groceries,5,4.99,24.95,2024-01-19,Cash
+T006,C004,P006,Face Serum,Beauty,1,49.99,49.99,2024-01-20,Credit Card
+T007,C005,P007,Running Shoes,Sports,1,129.99,129.99,2024-01-21,PayPal
+T008,C001,P008,Desk Lamp,Home,2,34.99,69.98,2024-01-22,Credit Card
+T009,C003,P009,Yoga Mat,Sports,1,29.99,29.99,2024-01-23,Debit Card
+T010,C006,P010,Bluetooth Headphones,Electronics,1,79.99,79.99,2024-01-24,Credit Card
+T011,C002,P011,Skin Moisturizer,Beauty,2,24.99,49.98,2024-01-25,PayPal
+T012,C004,P012,Jeans,Clothing,1,59.99,59.99,2024-01-26,Debit Card
+T013,C007,P013,Coffee Maker,Home,1,89.99,89.99,2024-01-27,Credit Card
+T014,C005,P014,Dumbbells Set,Sports,1,149.99,149.99,2024-01-28,PayPal
+T015,C008,P015,Smart Watch,Electronics,1,199.99,199.99,2024-01-29,Credit Card
+T016,C003,P016,Shampoo,Beauty,3,12.99,38.97,2024-01-30,Debit Card
+T017,C009,P017,Tablet,Electronics,1,499.99,499.99,2024-01-31,Credit Card
+T018,C001,P018,Bookshelf,Home,1,179.99,179.99,2024-02-01,PayPal
+T019,C010,P019,Sports Jersey,Clothing,2,39.99,79.98,2024-02-02,Debit Card
+T020,C006,P020,Wireless Keyboard,Electronics,1,49.99,49.99,2024-02-03,Credit Card
